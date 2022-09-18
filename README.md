@@ -1,1 +1,1 @@
-# Git-Branch-Merge-Conflicts
+# life is dangerous
